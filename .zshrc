@@ -68,7 +68,6 @@ alias o='open .'
 alias cpwd='pwd|pbcopy'
 alias udacity='twistd -no web --path=/Users/linus/udacity/ --port tcp:8888'
 export PATH=/usr/local/bin:$PATH
-export PYTHONPATH=$PYTHONPATH:/Users/linus/techainer/models/research:/Users/linus/techainer/models/research/slim
 export LC_ALL=en_US.UTF-8
 
 # The next line updates PATH for the Google Cloud SDK.
